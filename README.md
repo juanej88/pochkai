@@ -6,6 +6,20 @@ Whether you're planning a trip together, saving for something special, or just t
 
 ---
 
+## 🌱 Why Pochkai?
+
+In the sea of generic couple apps, Pochkai focuses on **real connection** — not just chat or calendars. It’s designed for couples who want to:
+
+- 🤝 Set and track goals as a team (savings, travel, health)
+- 😌 Stay emotionally in tune through daily mood check-ins
+- 🎲 Discover and enjoy each other more through trivia and games
+- 🎬 Decide together what to watch (without the 30-minute debate)
+- 🪞 Reflect on your relationship with weekly check-ins
+
+Pochkai makes connecting simple, intentional, and even a little fun — every single day.
+
+---
+
 ## Getting Started
 
 First, run the development server:
