@@ -20,10 +20,29 @@ Pochkai makes connecting simple, intentional, and even a little fun — every si
 
 ---
 
-## Getting Started
+## 🛠️ Installation & Setup
 
-First, run the development server:
+To get started with Pochkai locally, follow these steps:
 
-```bash
-npm run dev
-```
+1. **Clone the repository**  
+  ```bash
+  git clone https://github.com/your-username/pochkai.git
+  cd pochkai
+  ```
+
+2. **Install dependencies**  
+  ```bash
+  npm install
+  ```
+
+3. **Set up environment variables**  
+  Create a `.env.local` file in the root directory and define your environment variables (e.g., API keys, database URLs).
+
+4. **Start the development server**  
+  ```bash
+  npm run dev
+  ```
+
+  Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+---
