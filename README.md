@@ -20,6 +20,17 @@ Pochkai makes connecting simple, intentional, and even a little fun — every si
 
 ---
 
+## ✨ Features
+
+Pochkai offers a variety of tools to help couples stay connected and grow together:
+
+### 🎥 Watchlist Voting  
+Each partner adds shows or movies, and Pochkai helps you vote and decide what to watch — no more endless scrolling.
+
+
+---
+
+
 ## 🛠️ Installation & Setup
 
 To get started with Pochkai locally, follow these steps:
