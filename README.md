@@ -24,12 +24,25 @@ Pochkai makes connecting simple, intentional, and even a little fun — every si
 
 Pochkai offers a variety of tools to help couples stay connected and grow together:
 
+### 💬 Daily Mood Check-ins  
+Quick emotional check-ins help partners understand each other's inner world, even on busy days.
+
+### 🎯 Shared Goals  
+Track joint goals — whether it's saving for a trip, hitting a fitness milestone, or planning a home project.
+
+### 🧠 Couple Trivia  
+Answer light-hearted questions about each other to spark fun and deepen understanding.
+
 ### 🎥 Watchlist Voting  
 Each partner adds shows or movies, and Pochkai helps you vote and decide what to watch — no more endless scrolling.
 
+### 🔁 Weekly Reflections  
+End the week with a gentle prompt to reflect on your relationship, celebrate wins, and talk about improvements.
+
+### 🔐 Private by Default  
+Everything is just between you two — data is secure and never shared.
 
 ---
-
 
 ## 🛠️ Installation & Setup
 
