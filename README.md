@@ -70,3 +70,6 @@ To get started with Pochkai locally, follow these steps:
   Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ---
+
+### Author
+[Juan Espinosa Jorrin](https://juanespinosa.net)
