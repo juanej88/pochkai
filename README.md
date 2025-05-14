@@ -44,6 +44,19 @@ Everything is just between you two — data is secure and never shared.
 
 ---
 
+## Technologies Used
+
+### Frontend
+- **Next.js** (React framework)
+- **TypeScript** (for type safety)
+- **Tailwind CSS** (for styling)
+
+### Backend (Future Implementation)
+- **Django REST Framework** (for API endpoints)
+- **MySQL** (for storing audio files and Spotify metadata)
+
+---
+
 ## 🛠️ Installation & Setup
 
 To get started with Pochkai locally, follow these steps:
