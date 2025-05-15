@@ -47,13 +47,13 @@ Everything is just between you two — data is secure and never shared.
 ## Technologies Used
 
 ### Frontend
-- **Next.js** (React framework)
-- **TypeScript** (for type safety)
-- **Tailwind CSS** (for styling)
+- **Next.js**
+- **TypeScript**
+- **Tailwind CSS**
 
 ### Backend (Future Implementation)
-- **Django REST Framework** (for API endpoints)
-- **MySQL** (for storing audio files and Spotify metadata)
+- **Django REST Framework**
+- **MySQL**
 
 ---
 
