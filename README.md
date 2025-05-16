@@ -84,5 +84,13 @@ To get started with Pochkai locally, follow these steps:
 
 ---
 
+## Deployment (Future Implementation)
+
+The app will leverage modern cloud infrastructure for seamless performance:
+- **Frontend Hosting**: Netlify (Future Implementation)
+- **Backend Hosting**: Railway (Future Implementation)
+
+---
+
 ### Author
 [Juan Espinosa Jorrin](https://juanespinosa.net)
