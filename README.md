@@ -94,3 +94,4 @@ The app will leverage modern cloud infrastructure for seamless performance:
 
 ### Author
 [Juan Espinosa Jorrin](https://juanespinosa.net)
+[LinkedIn](https://www.linkedin.com/in/juanespinosajorrin/)
